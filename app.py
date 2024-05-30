@@ -8,7 +8,7 @@ from langchain.vectorstores import FAISS
 import tempfile
 
 # Replace with your OpenAI API key
-HARD_CODED_API_KEY = "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"
+HARD_CODED_API_KEY = "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"
 
 # Hardcoded path to the CSV file
 HARD_CODED_CSV_PATH = "dataset/AI.csv"
